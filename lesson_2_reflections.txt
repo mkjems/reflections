@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git creates the hidden .git directory that stores all the git information.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+	The staging area is different because only the files you choose will enter
+	it. This means that you can filter stuff away that you do not want committed.
+
