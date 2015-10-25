@@ -29,3 +29,16 @@ How do the diagrams help you visualize the branch structure?
 
 	I can give you an overview of the activity in multiple branches.
 	It can show when one branch was created of another.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	The result of merging two branches together is that we get one branch with a
+	final commit that has two parents.
+	when we do git log we see all the accessible commits in cronological order
+	so the diff between two successive commits might be quite large.
+	If you want to see the changes from a commit to its parent then you can do
+	git show <commit>
+
+
+
