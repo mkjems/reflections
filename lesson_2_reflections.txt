@@ -16,3 +16,13 @@ change?
 	by running git diff you can see the diff between the staging area and the
 	working directory
 
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	If you want to try out some more complicated changes that require more than
+	one commit.
+
+	If you are multiple people working on a project you could each work on your
+	own branch and then make pull requests to master when each task is done.
+
+
