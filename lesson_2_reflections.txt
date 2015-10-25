@@ -25,4 +25,7 @@ organized? How would branches help?
 	If you are multiple people working on a project you could each work on your
 	own branch and then make pull requests to master when each task is done.
 
+How do the diagrams help you visualize the branch structure?
 
+	I can give you an overview of the activity in multiple branches.
+	It can show when one branch was created of another.
