@@ -40,5 +40,13 @@ the diagram the way we do?
 	If you want to see the changes from a commit to its parent then you can do
 	git show <commit>
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	If I understand the question correctly then merging manually would be a huge
+	timeconsuming task. Having git merge the branches for us is really quite
+	wonderfull.
+
+
 
 
