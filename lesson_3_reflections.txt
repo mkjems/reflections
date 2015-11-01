@@ -24,3 +24,20 @@ one instead of another?
 
 	Branches are used if you want to make a series of changes that you may or
 	may not want to merge into the master branch later.
+
+What is the benefit of having a copy of the last known state of the remote stored
+locally?
+
+	if you plan to go ofline, you can fetch the latest changes to the remote
+	branches so you can see them even before you merge them.
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+	If you did not have github then you most likely need some other way of
+	communicating a change like a patch file.
+
+	Bottom line is the Github has made code collaboration a whole lot easier.
+
+
+
