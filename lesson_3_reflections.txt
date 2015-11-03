@@ -37,6 +37,9 @@ what would be harder?
 	If you did not have github then you most likely need some other way of
 	communicating a change like a patch file.
 
+	I guess if you are doing a very small project then the overhead of setting up
+	a github account becomes an annoyance.
+
 	Bottom line is the Github has made code collaboration a whole lot easier.
 
 
