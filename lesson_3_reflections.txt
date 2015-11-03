@@ -42,5 +42,19 @@ what would be harder?
 
 	Bottom line is the Github has made code collaboration a whole lot easier.
 
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+	If you want your master branch to always have a high quality it makes sense
+	to do development in branches and ask other people to review the code as you
+	merge it into master.
+
+	If you collaborate with other people that might be in remote locations then
+	it also makes sense to have this sort of review before allowing it into
+	the master branch.
+
+	You can also benefit from branches if you are doing larger changes to your code
+	the --graph will provide a nice visual for your change.
+
 
 
